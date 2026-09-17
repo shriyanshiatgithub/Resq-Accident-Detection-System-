@@ -46,11 +46,11 @@ Most accident-safety devices in the market are built for four-wheelers. Two-whee
 
 Working hardware prototype built and tested on Arduino Uno with the sensors listed above.
 
-![ResQ prototype](images/prototype-1.jpg)
+![ResQ prototype](images/prototype.jpg)
 
 ## Project Materials
 
-- Full SIH 2024 presentation: [`slides/ResQ-SIH2024.pdf`](slides/ResQ-SIH2024.pdf)
+- Full SIH 2024 presentation: [`slides/ResQ.pdf`](slides/ResQ.pdf)
 - Product explanation video: https://app.animaker.com/animo/GUAhx0ZOlHdeaOAz/
 
 ## Team AARAMBH
